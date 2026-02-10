@@ -6,7 +6,7 @@ second_number = int(input())
 
 result = first_number*second_number
 
-print(str(first_number) + " x " + str(second_number)+ " = "+ str(result))
+print(str(first_number) + " x " + str(second_number) + " = " + str(result))
 
 if result > 0 :
     print("This number is positive.")
